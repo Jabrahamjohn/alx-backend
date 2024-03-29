@@ -32,7 +32,7 @@ class Server:
     @staticmethod
     def assert_positive_integer_type(value: int) -> None:
         """
-        Asserts that the value is a positive integer.
+        Asserts that the value is  positive integer.
         Args:
             value (int): The value to be asserted.
         """
