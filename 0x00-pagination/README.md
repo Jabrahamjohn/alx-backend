@@ -10,5 +10,10 @@
 
 <h2>FILES</h2>
 
-- [Simple Helper](#0-simple_helper.py)
+- [Simple Helper](./0-simple_helper_function.py) <br>
 This file is a simple pagination
+- [Simple Pagination](./1-simple_pagination.py) <br>
+ this file is a simple pagination function
+ - [Hypermedia](./2-hypermedia_pagination.py)<br>
+ lets make the media appear
+
