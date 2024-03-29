@@ -16,4 +16,7 @@ This file is a simple pagination
  this file is a simple pagination function
  - [Hypermedia](./2-hypermedia_pagination.py)<br>
  lets make the media appear
+ - [Hypermedia deletion](./3-hypermedia_del_pagination.py)
+ this is how we do the deletion
+ 
 
