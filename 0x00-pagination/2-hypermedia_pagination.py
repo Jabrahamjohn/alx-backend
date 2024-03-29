@@ -8,7 +8,7 @@ index_range = __import__('0-simple_helper_function').index_range
 
 
 class Server:
-    """Server class to paginate a database of popular baby names.
+    """Server class to paginate the database of baby names.
     """
     DATA_FILE = "Popular_Baby_Names.csv"
 
