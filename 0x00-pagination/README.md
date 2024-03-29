@@ -16,7 +16,7 @@ This file is a simple pagination
  this file is a simple pagination function
  - [Hypermedia](./2-hypermedia_pagination.py)<br>
  lets make the media appear
- - [Hypermedia deletion](./3-hypermedia_del_pagination.py)
+ - [Hypermedia deletion](./3-hypermedia_del_pagination.py)<br>
  this is how we do the deletion
  - [CSV](./Popular_Baby_Names.csv)<br>
  this is the csv for the baby's names used on the project
