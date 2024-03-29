@@ -9,3 +9,6 @@
 <a href="https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/#pagination">REST API Design: Pagination</a>
 
 <h2>FILES</h2>
+
+- [Simple Helper](#0-simple_helper.py)
+This file is a simple pagination
