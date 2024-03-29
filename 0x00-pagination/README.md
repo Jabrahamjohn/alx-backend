@@ -7,3 +7,5 @@
 <h4>Read or Watch</h4>
 <a href="https://en.wikipedia.org/wiki/HATEOAS">HATEOAS</a> <br>
 <a href="https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/#pagination">REST API Design: Pagination</a>
+
+<h2>FILES</h2>
