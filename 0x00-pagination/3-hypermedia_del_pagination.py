@@ -49,7 +49,7 @@ class Server:
             data: actual page of the dataset
         Args:
             index(int): first required index
-            page_size(int): required number of records per page
+            page_size(int): required number of records per each page
         """
         dataset = self.indexed_dataset()
         data_length = len(dataset)
