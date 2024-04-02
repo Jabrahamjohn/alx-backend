@@ -4,7 +4,8 @@ This repository is a functional for learning core back-end functions.
 
 <h2>Project Directories<h2> 
 
-- [0X00-PAGINATION](#PAGINATION)
+- [0X00.PAGINATION](#PAGINATION)
+- [0x01.CACHING](#CACHING)
 
 # PAGINATION
 ### Learning Objectives
