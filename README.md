@@ -30,4 +30,4 @@ What LFU means
 What the purpose of a caching system
 What limits a caching system have
 
-For files in the project [0x01-caching](./0x01-caching/)
+For files in the project [0x01-caching](./0x01-caching)
