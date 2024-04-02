@@ -8,13 +8,16 @@ class FIFOCache(BaseCaching):
     and is a caching system
     """
     def __init__(self):
-        """Initiliaze
+        """Initiliazes the class.
         """
         super().__init__()
         self.queue = []
 
     def put(self, key, item):
         """ adds an item in cache
+        args:
+            key: key of item
+            item: item to add
         """
         if key and item:
             if len(self.cache_data) >= BaseCaching.MAX_ITEMS:
@@ -26,5 +29,7 @@ class FIFOCache(BaseCaching):
 
     def get(self, key):
         """ gets an item by key
+        args:
+            key: key where item is stored
         """
         return self.cache_data.get(key, None)   
