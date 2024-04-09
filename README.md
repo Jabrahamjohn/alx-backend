@@ -21,7 +21,7 @@ The files in [0x00-pagination](./0x00-pagination/) achieve the above the objecti
 
 THIS  PROJECT IS ABOUT LEARNING DIFFERENT CACHING ALGORITHMS
 
-### Learning Objectivs.
+### Learning Objectivs
 
 What a caching system is
 What FIFO means
