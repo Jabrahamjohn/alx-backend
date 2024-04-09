@@ -2,12 +2,12 @@
 
 This repository is a functional for learning core back-end functions.
 
-<h2>Project Directories<h2> 
+## Project Directories
 
 - [0X00.PAGINATION](#PAGINATION)
 - [0x01.CACHING](#CACHING)
 
-# PAGINATION
+## PAGINATION
 
 ### Learning Objectives.
 
@@ -17,7 +17,7 @@ This repository is a functional for learning core back-end functions.
 
 The files in [0x00-pagination](./0x00-pagination/) achieve the above the objectives
 
-# CACHING
+## CACHING
 
 THIS  PROJECT IS ABOUT LEARNING DIFFERENT CACHING ALGORITHMS
 ### Learning Objectivs.
