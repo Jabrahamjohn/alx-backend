@@ -9,7 +9,7 @@ This repository is a functional for learning core back-end functions.
 
 ## PAGINATION
 
-### Learning Objectives.
+***Learning Objectives***
 
 - How to paginate a dataset with simple page and page_size parameters
 - How to paginate a dataset with hypermedia metadata
