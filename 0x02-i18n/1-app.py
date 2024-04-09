@@ -10,7 +10,9 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     """ Route for handling root URL """
+    current_language = str(babel.locale_selector())
     return render_template('1-index.html')
+
 # Create a Config class with LANGUAGES attribute
 class Config:
     LANGUAGES = ["en", "fr"]
