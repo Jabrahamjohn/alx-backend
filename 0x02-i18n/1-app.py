@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
 """ Basic Flask app, Basic Babel setup, Get locale from request,"""
 
-from flask import Flask
+from flask import Flask, render_template
 from flask_babel import Babel
 
 # Create a Flask application instance
 app = Flask(__name__)
 
+@app.route('/')
+def index():
+    """ Route for handling root URL """
+    return render_template('1-index.html')
 # Create a Config class with LANGUAGES attribute
 class Config:
     LANGUAGES = ["en", "fr"]
