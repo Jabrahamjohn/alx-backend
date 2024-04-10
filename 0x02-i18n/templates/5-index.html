@@ -10,9 +10,9 @@
         <h1>{% trans %}{{ home_header}}{% endtrans %}</h1>
     </header>
     {% if g.user %}
-    <p>{% trans "logged_in_as"%}</p>
+        <p>{% trans "logged_in_as"%}</p>
     {% else %}
-    <p>{% trans "not_logged_in" %}</p>
+        <p>{% trans "not_logged_in" %}</p>
     {% endif %}
 </body>
 </html>

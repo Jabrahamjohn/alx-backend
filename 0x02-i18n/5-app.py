@@ -53,7 +53,7 @@ def before_request():
 @app.route('/')
 def index():
     """ Index """
-    return render_template('5-index.html')
+    return render_template('5-index.html',home_title='Welcome to Holberton', home_header='Hello world!',logged_in_as=g.user,not_logged_in='Please log in')
 
 if __name__ == '__main__':
     app.run(debug=True)
