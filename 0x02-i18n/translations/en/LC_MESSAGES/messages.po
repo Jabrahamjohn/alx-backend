@@ -23,3 +23,9 @@ msgstr "Welcome to Holberton"
 
 msgid "home_header"
 msgstr "Hello world!"
+
+msgid "logged_in"
+msgstr "You are loggied in as % (username)s."
+
+msgid "not_logged_in"
+msgstr "Youre not logged in"
