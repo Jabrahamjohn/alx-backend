@@ -29,13 +29,13 @@ def get_user(user_name):
     """ Get user from users """
     return users.get(user_name)
 
-def get_user_locale(user_locale):
+def get_locale(user_locale):
     """ Get user locale """
     if user_locale in Config.LANGUAGES:
         return user_locale
     return None
 
-def get_user_timezone(user_timezone):
+def get_timezone(user_timezone):
     """ Get user timezone """
     if user_timezone in timezone.all_timezones:
         return user_timezone
